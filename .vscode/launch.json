@@ -2,10 +2,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "chrome",
+            "type": "pwa-chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "http://localhost:4200",
+            "url": "http://localhost:60111",
             "sourceMaps": true,
             "webRoot": "${workspaceRoot}"
         },
